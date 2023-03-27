@@ -1,0 +1,27 @@
+.menus {
+    background-color: #fff;
+    border: 0px solid #ccc;
+    width: 70px;
+    height: 120px;
+}
+
+.link-menus {
+    display: inline-block;
+    flex-shrink: 0;
+}
+
+.menus-text {
+    color: #333;
+    font-size: 12px;
+    font-family: sans-serif;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.menus-label {
+    color: #333;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
